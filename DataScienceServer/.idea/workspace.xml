@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0441ea22-6934-4081-88bd-9f72a8f38ac0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataScienceServer$Test02.coverage" NAME="Test02 Coverage Results" MODIFIED="1564720743986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataScienceServer$Test.coverage" NAME="Test Coverage Results" MODIFIED="1566287766893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataScienceServer$GetKeyWords.coverage" NAME="GetKeyWords Coverage Results" MODIFIED="1564569693484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataScienceServer$Server.coverage" NAME="Server Coverage Results" MODIFIED="1565230566141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataScienceServer$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1564536265346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.2.23" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.2.23" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.2.23" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="weibo: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.2.35" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.2.35" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.2.35" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="weibo: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.2.35" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="weibo: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="fans_community_result: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="399549212">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="attitudes_wap_78f33b74acf111e9a1f8e0d55e2003c1" value="2" />
+          <entry key="big_v_mblog" value="1" />
+          <entry key="comments_wap_78f33b74acf111e9a1f8e0d55e2003c1" value="1" />
+          <entry key="csv" value="47" />
+          <entry key="enterprise_matrix" value="1" />
+          <entry key="fans_uid_7cfaefe6b1ec11e9a1f8e0d55e2003c1" value="2" />
+          <entry key="fans_uid_detail_78f33b74acf111e9a1f8e0d55e2003c1" value="2" />
+          <entry key="fens_communtry_result" value="12" />
+          <entry key="fens_total_static_info" value="4" />
+          <entry key="get_key_words_state_appoint_day" value="21" />
+          <entry key="get_key_words_state_marketing_event_track" value="3" />
+          <entry key="get_key_words_state_user_fans" value="5" />
+          <entry key="getkeywords_state" value="58" />
+          <entry key="getkeywords_state_appoint_day" value="1" />
+          <entry key="ini" value="1" />
+          <entry key="mblog_track_communtry_result" value="6" />
+          <entry key="py" value="54" />
+          <entry key="reposts_wap_78f33b74acf111e9a1f8e0d55e2003c1" value="1" />
+          <entry key="sql" value="63" />
+          <entry key="txt" value="7" />
+          <entry key="userinfo" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="121" />
+          <entry key="Ini" value="1" />
+          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="Python" value="54" />
+          <entry key="SQL" value="4" />
+          <entry key="Scratch" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell_1" value="38" />
+          <entry key="csv" value="30" />
+          <entry key="dummy" value="42" />
+          <entry key="ini" value="598" />
+          <entry key="py" value="10516" />
+          <entry key="sql" value="180" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="598" />
+          <entry key="PLAIN_TEXT" value="73" />
+          <entry key="Python" value="10516" />
+          <entry key="SQL" value="177" />
+          <entry key="Scratch" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-446219146">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="baike" value="1" />
+          <entry key="fans_community_result" value="17" />
+          <entry key="fens_community_static_info" value="4" />
+          <entry key="fens_communtry_result" value="3" />
+          <entry key="fens_total_static_info" value="6" />
+          <entry key="get_key_words_state_appoint_day" value="5" />
+          <entry key="get_key_words_state_marketing_event_track" value="12" />
+          <entry key="get_key_words_state_user_fans" value="3" />
+          <entry key="ini" value="8" />
+          <entry key="mblog_from_uid_yangwanqiu_copy" value="2" />
+          <entry key="mblog_track_community_result" value="4" />
+          <entry key="mblog_track_community_static_info" value="1" />
+          <entry key="py" value="17" />
+          <entry key="sql" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="58" />
+          <entry key="Ini" value="8" />
+          <entry key="Python" value="17" />
+          <entry key="SQL" value="3" />
+          <entry key="Scratch" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ini" value="18" />
+          <entry key="py" value="827" />
+          <entry key="sql" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="18" />
+          <entry key="Python" value="827" />
+          <entry key="SQL" value="27" />
+          <entry key="Scratch" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server_Staticinfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+              <folding>
+                <element signature="e#131#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GetCommunityResultStatistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="201" column="54" lean-forward="true" selection-start-line="201" selection-start-column="54" selection-end-line="201" selection-end-column="54" />
+              <folding>
+                <element signature="e#152#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://928113a7-fa0b-4be2-a57c-45d64fffc7bd/schema/weibo/table/fens_total_static_info">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_key_word_marketing_event_track_output_folder_path</find>
+      <find>select_fans_total_sql</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UserProfileWordLibrary.py" />
+        <option value="$PROJECT_DIR$/Test01.py" />
+        <option value="$PROJECT_DIR$/FlagMessage.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/88bdbaf8-c421-4878-98e6-a1e99c66f693/console.sql" />
+        <option value="$PROJECT_DIR$/ConfigParam.py" />
+        <option value="$PROJECT_DIR$/input/workGetMarketingEventTrackCommunityResultStatistics/22.txt" />
+        <option value="$PROJECT_DIR$/input/workGetMarketingEventTrackCommunityResultStatistics/23.txt" />
+        <option value="$PROJECT_DIR$/input/workGetMarketingEventTrackCommunityResultStatistics/24.txt" />
+        <option value="$PROJECT_DIR$/input/workGetMarketingEventTrackCommunityResultStatistics/25.txt" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_9999_result.csv" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_09999.csv" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_008888.csv" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_007777.csv" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_006666.csv" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_005555.csv" />
+        <option value="$PROJECT_DIR$/Test02.py" />
+        <option value="$PROJECT_DIR$/mblog_from_uid_007777_result.csv" />
+        <option value="$PROJECT_DIR$/Profile_1.0.py" />
+        <option value="$PROJECT_DIR$/Profile_allbirds.py" />
+        <option value="$PROJECT_DIR$/Profile_2.0.py" />
+        <option value="$PROJECT_DIR$/Baorui_Extract_1.0.py" />
+        <option value="88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_marketing_event_track.sql" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/fens_communtry_result.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/940de479-d405-4ef3-8177-6f5373786b67/console.sql" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/GetKeyWords.py" />
+        <option value="$PROJECT_DIR$/Server.py" />
+        <option value="$PROJECT_DIR$/MySqlHelper.py" />
+        <option value="$PROJECT_DIR$/Server_Staticinfo.py" />
+        <option value="$PROJECT_DIR$/GetCommunityResultStatistics.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataScienceServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataScienceServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceServer" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataScienceServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceServer" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="workGetUserFansCommunityResultStatistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataScienceServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataScienceServer" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Test">
+    <configuration name="GetKeyWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataScienceServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetKeyWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataScienceServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataScienceServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataScienceServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataScienceServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Server" />
+      <item itemvalue="Python.GetKeyWords" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Test01" />
+      <item itemvalue="Python.Test02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.Server" />
+        <item itemvalue="Python.Test02" />
+        <item itemvalue="Python.GetKeyWords" />
+        <item itemvalue="Python.Test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0441ea22-6934-4081-88bd-9f72a8f38ac0" name="Default Changelist" comment="" />
+      <created>1564391197447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564391197447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16257995" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.19739696" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.45986986" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.31236443" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.14967462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="1" weight="0.32995737" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.18176973" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>mysql_object.insert(sql, (data_time, 'waiting', ip_address, data_base_name, data_table_name_one, data_table_name_two, 'null', 0, 0))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mysql_object.insert(sql, (data_time, 'waiting', ip_address, data_base_name, data_table_name_one, data_table_name_two, 'null', 0))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_008888.csv" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_007777.csv" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_006666.csv" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_006666_result.csv" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_005555_result.csv" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_007777_result.csv" />
+    <entry file="file://$PROJECT_DIR$/Test01.py" />
+    <entry file="file://$PROJECT_DIR$/Test02.py" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_allbirds.csv" />
+    <entry file="file://$PROJECT_DIR$/mblog_from_uid_35.csv" />
+    <entry file="das://ac7f1a0c-574e-4b47-83a8-128a716d0540/schema/weibo/table/enterprise_matrix">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://ac7f1a0c-574e-4b47-83a8-128a716d0540/schema/weibo/table/userinfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ac7f1a0c-574e-4b47-83a8-128a716d0540/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_marketing_event_track">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_user_fans">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Profile_allbirds.py" />
+    <entry file="file://$PROJECT_DIR$/output/workGetKeyWordUserFans/0.csv" />
+    <entry file="file://$PROJECT_DIR$/output/workGetKeyWordMarketingEventTrack/0.csv" />
+    <entry file="file://$PROJECT_DIR$/output/workGetKeyWordAppointDay/0.csv" />
+    <entry file="file://$PROJECT_DIR$/Profile_1.0.py" />
+    <entry file="file://$PROJECT_DIR$/Profile_1.0_1.py" />
+    <entry file="file://$PROJECT_DIR$/Baorui_Extract_1.0.py" />
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_appoint_day">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_appoint_day.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_user_fans.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/get_key_words_state_marketing_event_track.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Profile_2.0.py" />
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/mblog_track_communtry_result.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/baike">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/mblog_from_uid_yangwanqiu_copy">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/fens_communtry_result.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/928113a7-fa0b-4be2-a57c-45d64fffc7bd/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/get_key_words_state_appoint_day">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/get_key_words_state_user_fans">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/fens_communtry_result">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://88bdbaf8-c421-4878-98e6-a1e99c66f693/schema/weibo/table/fens_total_static_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetKeyWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#136#185#0" expanded="true" />
+            <element signature="e#487#9448#0" />
+            <element signature="e#9501#18487#0" />
+            <element signature="e#18553#27611#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySqlHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfigParam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="54" column="60" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="60" />
+          <folding>
+            <element signature="e#136#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/get_key_words_state_marketing_event_track">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/mblog_track_community_result">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Staticinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+          <folding>
+            <element signature="e#131#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://928113a7-fa0b-4be2-a57c-45d64fffc7bd/schema/weibo/table/mblog_track_community_static_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://928113a7-fa0b-4be2-a57c-45d64fffc7bd/schema/weibo/table/fens_community_static_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/940de479-d405-4ef3-8177-6f5373786b67/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://940de479-d405-4ef3-8177-6f5373786b67/schema/weibo/table/fans_community_result">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://928113a7-fa0b-4be2-a57c-45d64fffc7bd/schema/weibo/table/fens_total_static_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetCommunityResultStatistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="201" column="54" lean-forward="true" selection-start-line="201" selection-start-column="54" selection-end-line="201" selection-end-column="54" />
+          <folding>
+            <element signature="e#152#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

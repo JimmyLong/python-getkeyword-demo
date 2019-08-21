@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="88bdbaf8-c421-4878-98e6-a1e99c66f693">
+      <database-info product="MySQL" version="5.5.60" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )" family="MYSQL" exact-version="5.5.60">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:@,weibo</introspection-schemas>
+    </data-source>
+    <data-source name="@192.168.2.35" uuid="940de479-d405-4ef3-8177-6f5373786b67">
+      <database-info product="MySQL" version="5.7.27-0ubuntu0.16.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )" family="MYSQL" exact-version="5.7.27">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:@,weibo,weibo_marketing</introspection-schemas>
+    </data-source>
+    <data-source name="@192.168.2.16" uuid="ac7f1a0c-574e-4b47-83a8-128a716d0540">
+      <database-info product="MySQL" version="5.7.27-0ubuntu0.16.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )" family="MYSQL" exact-version="5.7.27">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:@,weibo</introspection-schemas>
+    </data-source>
+    <data-source name="192.168.2.23" uuid="928113a7-fa0b-4be2-a57c-45d64fffc7bd">
+      <database-info product="MySQL" version="5.7.27" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )" family="MYSQL" exact-version="5.7.27">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:@,weibo</introspection-schemas>
+    </data-source>
+  </component>
+</project>
