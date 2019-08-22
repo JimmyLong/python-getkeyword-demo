@@ -1,0 +1,17 @@
+古驰,GUCCI 
+NIKE,耐克
+NIKe,耐克
+Nike,耐克
+adidas,阿迪达斯
+Adidas,阿迪达斯
+广汽丰田,丰田
+Dior,迪奥
+DIOR,迪奥
+MAC,Mac
+Chanel,香奈儿
+CHANEL,香奈儿
+YSL,圣罗兰
+Google,谷歌
+GOOGLE,谷歌
+GIVENCHY,纪梵希
+Givenchy,纪梵希
